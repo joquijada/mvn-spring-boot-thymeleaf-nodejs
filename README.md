@@ -35,7 +35,7 @@
 
 ## 1. Overview
 
-`spring-boot-starter-thymeleaf` uses the Spring Project [`spring-boot-starter-thymeleaf`][spring-boot-starter-thymeleaf-mvn-repo-url] with the [`exec-maven-plugin`][exec-maven-plugin-url] in order to execute [`npm-run-scripts`][npm-run-script-url] during [Maven's build lifecycle][maven-build-lifecycle-url].
+`mvn-spring-boot-starter-thymeleaf` uses the Spring Project [`spring-boot-starter-thymeleaf`][spring-boot-starter-thymeleaf-mvn-repo-url] with the [`exec-maven-plugin`][exec-maven-plugin-url] in order to execute [`npm-run-scripts`][npm-run-script-url] during [Maven's build lifecycle][maven-build-lifecycle-url].
 
 ## 2. Getting started
 
@@ -55,13 +55,13 @@
 Open a Terminal and run:
 
 ```bash
-$ git clone https://github.com/gregswindle/spring-boot-starter-thymeleaf.git
+$ git clone https://github.com/gregswindle/mvn-spring-boot-starter-thymeleaf.git
 ```
 
 Go into the installation directory:
 
 ```bash
-$ cd spring-boot-starter-thymeleaf
+$ cd mvn-spring-boot-starter-thymeleaf
 ```
 
 Install all Java and JavaScript dependencies:
